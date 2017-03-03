@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	height: 484px; 
+	width: 484px;
+	margin: 0px auto;
+	border: 2px solid #000;
+	overflow: hidden;
+}
+
+.grid {
+	background-color: #fff;
+	height: 30px; width: 30px;
+	margin: 0px;
+	display: block;
+	float: left;
+	opacity: 1;
+}
+
+.menu {
+	height:50px; width:480px;
+	display: block;
+	margin: 0 auto;
+}
+
+#reset {
+	float: right;
+}

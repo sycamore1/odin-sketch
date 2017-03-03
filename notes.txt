@@ -1,0 +1,11 @@
+Generate initial 16x16 grid
+Apply colour change on mouseenter
+Refresh grid button
+Change number of squares - do not change size of grid
+
+
+Optional features: 
+	Gradient mode (change opacity +10% each mouseover) 
+	Random colour for each square
+Change colour option
+Improved menu / design
